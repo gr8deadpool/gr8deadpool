@@ -1,7 +1,27 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Shubham%20Kumar&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&fontFamily=Orbitron&desc=Full-Stack%20Developer%20%7C%20MCA%20Student&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/gr8deadpool/gr8deadpool/main/assets/profile.png" width="180" style="border-radius:50%; border:4px solid #6A11CB; margin-top:10px;" />
+<table>
+<tr>
+<td>
+
+```
+● ● ●  profile.png
+```
+
+<img src="https://raw.githubusercontent.com/gr8deadpool/gr8deadpool/main/assets/profile.png" width="220" style="border:2px solid #6A11CB;" />
+
+```js
+const developer = {
+  name: "Shubham Kumar",
+  role: "Full-Stack Developer",
+  status: "open_to_work"
+};
+```
+
+</td>
+</tr>
+</table>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Fresher+%7C+Fast+%26+Passionate+Learner;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
