@@ -1,113 +1,69 @@
 <div align="center">
-<br>
-
-# 👋 Shubham Kumar
-
-### Full-Stack Developer building things that live on the web
-
-<br>
-
-`Bihar, India`  ·  `MCA Student @ VKSU`  ·  `Open to Internships`
-
-<br>
-
-<a href="mailto:Shubhamkrishna27@gmail.com">✉️ Email</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/gr8deadpool">🐙 GitHub</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://instagram.com/shubham_krishna__">📸 Instagram</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7E5F,100:FEB47B&height=4&width=1000" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Shubham%20Kumar&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&fontFamily=Orbitron&desc=Full-Stack%20Developer%20%7C%20MCA%20Student&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Fresher+%7C+Fast+%26+Passionate+Learner;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+<br/><br/>
+<a href="https://instagram.com/shubham_krishna__">
+  <img src="https://img.shields.io/badge/Instagram-6A11CB?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="mailto:Shubhamkrishna27@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=gr8deadpool&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS" />
 </div>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6a11cb&height=3&width=1000" width="100%">
 
-<br>
-
-### 01 — Who I Am
-
-I'm a full-stack developer and MCA student who likes turning ideas into working software. I care about clean code, thoughtful UI, and understanding *why* something works — not just making it work.
-
-Right now, most of my energy goes into two things: getting really good at **Data Structures & Algorithms**, and getting comfortable across the entire stack — from a styled button to the database query behind it.
-
-<br>
-
-### 02 — What I Work With
-
-<table width="100%">
+## 🧑‍💻 About Me
+<table>
 <tr>
-<td width="50%" valign="top">
-
-**Languages**
-C · C++ · Java · Python · JavaScript
-
-**Frontend**
-HTML5 · CSS3 · Bootstrap
-
-</td>
-<td width="50%" valign="top">
-
-**Backend & Data**
-PHP · MySQL · MongoDB
-
-**Tools**
-Git · GitHub · VS Code
-
-</td>
+<td width="60">🎓</td>
+<td><b>Education</b> — Pursuing <b>MCA</b> at Veer Kunwar Singh University (VKSU)</td>
+</tr>
+<tr>
+<td>💻</td>
+<td><b>Role</b> — Fresher & Full-Stack Developer, passionate about building web apps</td>
+</tr>
+<tr>
+<td>🌱</td>
+<td><b>Currently Learning</b> — Advanced Full-Stack Dev, DSA, Backend Development</td>
+</tr>
+<tr>
+<td>🎯</td>
+<td><b>Goal</b> — Become a skilled Full-Stack Developer building scalable, user-friendly apps</td>
+</tr>
+<tr>
+<td>🤝</td>
+<td><b>Open To</b> — Internships, collaboration & new opportunities</td>
 </tr>
 </table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2575fc&height=3&width=1000" width="100%">
 
-<br>
+## 🛠️ Tech Arsenal
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,html,css,bootstrap,php,mysql,mongodb,git,github&theme=dark&perline=7" />
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6a11cb&height=3&width=1000" width="100%">
 
-### 03 — Right Now
-
-| | |
-|---|---|
-| 🎓 | Pursuing MCA at Veer Kunwar Singh University |
-| 🧩 | Practicing DSA almost daily |
-| 🛠️ | Building full-stack projects to apply what I learn |
-| 🤝 | Looking for an internship or a team to build with |
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7E5F,100:FEB47B&height=2&width=1000" width="100%">
-
-<br>
-
-### 04 — GitHub, in Numbers
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=gr8deadpool&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gr8deadpool&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gr8deadpool&theme=tokyo-night&hide_border=true" width="95%"/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2575fc&height=3&width=1000" width="100%">
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.shion.dev/api?username=gr8deadpool&theme=vue&hide_border=true&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&theme=vue&hide_border=true&layout=compact"/>
+## 🤝 Let's Connect
+**💡 Open to internships, freelance work & collaborative projects — let's build something great!**
 
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=gr8deadpool&theme=vue-dark&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF7E5F,100:FEB47B&height=2&width=1000" width="100%">
-
-<br>
-
-### 05 — Get in Touch
-
-If you're hiring, building something interesting, or just want to talk shop — my inbox is open.
-
-<div align="center">
-
-<br>
-
-**[Shubhamkrishna27@gmail.com](mailto:Shubhamkrishna27@gmail.com)**
-
-<br><br>
-
-<sub>Thanks for stopping by 🙂</sub>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=gr8deadpool&style=flat-square&color=FF7E5F&label=VISITORS"/>
-
-</div>
+<!-- Proudly redesigned ✨ -->
