@@ -1,18 +1,75 @@
-# 💫 About Me:
-# 👋 Hi, I'm Shubham Kumar<br><br>🎓 Currently pursuing **MCA (Master of Computer Applications)** from **Veer Kunwar Singh University (VKSU)**.<br><br>💻 I’m a **Fresher & Full-Stack Developer** passionate about building web applications and learning modern technologies.<br><br>### 🚀 Skills & Technologies<br><br>* **Languages:** C++, JavaScript, Python<br>* **Frontend:** HTML, CSS, JavaScript<br>* **Backend:** Python, JavaScript<br>* **Full-Stack Web Development**<br>* **Git & GitHub**<br><br>### 🌱 Currently Learning<br><br>* Advanced Full-Stack Development<br>* Data Structures & Algorithms<br>* Backend Development<br>* Modern Web Technologies<br><br>### 🎯 Goal<br><br>To become a skilled **Full-Stack Developer** and build scalable, useful, and user-friendly applications.<br><br>📌 **Open to learning, collaboration, internships, and opportunities.**<br>
+<h1 align="center">Hi there, I'm Shubham Kumar 👋</h1>
 
+<h3 align="center">🎓 MCA Student @ Veer Kunwar Singh University (VKSU) | 💻 Full-Stack Developer</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham_krishna__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shubhamkrishna27@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Fresher+%7C+Fast+Learner;Building+Scalable+Web+Apps;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gr8deadpool&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gr8deadpool&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://instagram.com/shubham_krishna__">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:Shubhamkrishna27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=gr8deadpool&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🚀 About Me
+
+- 🎓 Currently pursuing **MCA (Master of Computer Applications)** at **VKSU**
+- 💻 **Fresher & Full-Stack Developer**, passionate about building web applications
+- 🌱 Learning **Advanced Full-Stack Development, DSA & Modern Web Tech**
+- 🎯 Goal: Become a skilled Full-Stack Developer building scalable, user-friendly apps
+- 📌 Open to **internships, collaboration & opportunities**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=gr8deadpool&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gr8deadpool&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=gr8deadpool&icon=0&color=0" />
+  </a>
+</p>
+
+<p align="center"><i>⭐ Thanks for visiting my profile! Feel free to connect and collaborate. ⭐</i></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
