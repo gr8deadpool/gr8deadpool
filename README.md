@@ -1,48 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=shubham@dev:~$&fontSize=42&fontColor=00FF9C&fontAlignY=45&desc=Full-Stack%20Developer%20//%20MCA%20Student&descAlignY=65&descSize=16&descColor=ffffff&animation=fadeIn"/>
-
-</div>
-
-```bash
-$ whoami
-> Shubham Kumar — Full-Stack Developer & Fresher
-
-$ cat about.txt
-> Pursuing MCA at Veer Kunwar Singh University (VKSU)
-> Passionate about building scalable, user-friendly web apps
-> Currently sharpening DSA + Backend fundamentals
-
-$ status --current
-> [✓] Open to Internships
-> [✓] Open to Collaboration
-> [✓] Learning Advanced Full-Stack Dev
-```
-
-<br>
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/-shubham__krishna__-00FF9C?style=flat-square&logo=instagram&logoColor=black)](https://instagram.com/shubham_krishna__)
-[![Gmail](https://img.shields.io/badge/-Shubhamkrishna27@gmail.com-00FF9C?style=flat-square&logo=gmail&logoColor=black)](mailto:Shubhamkrishna27@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=gr8deadpool&style=flat-square&color=00FF9C&label=VISITORS)](https://github.com/gr8deadpool)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6B6B,50:C56CF0,100:4834D4&height=230&section=header&text=SHUBHAM%20KUMAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20A%20Wild%20Full-Stack%20Developer%20Appeared&descAlignY=58&descSize=18&animation=twinkling"/>
 
 </div>
 
 <br>
 
-## `> tech_stack.json`
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-```json
-{
-  "languages":  ["C", "C++", "Java", "Python", "JavaScript"],
-  "frontend":   ["HTML5", "CSS3", "Bootstrap"],
-  "backend":    ["PHP"],
-  "database":   ["MySQL", "MongoDB"],
-  "tools":      ["Git", "GitHub", "VS Code"],
-  "learning":   ["Data Structures & Algorithms", "Advanced Full-Stack"]
-}
+### 🎮 Character Sheet
+
 ```
+╔══════════════════════════════════╗
+║  CLASS   : Full-Stack Developer   ║
+║  LEVEL   : Fresher (XP grinding)  ║
+║  GUILD   : VKSU — MCA Division    ║
+║  ORIGIN  : Bihar, India           ║
+║  QUEST   : Land First Internship  ║
+╚══════════════════════════════════╝
+```
+
+**🧠 Passive Trait:** Learns new tech absurdly fast  
+**🔥 Special Move:** Turns bugs into features (sometimes)  
+**🎯 Current Grind:** DSA + Backend Mastery
+
+</td>
+<td width="45%" valign="top">
+
+### 📈 Stat Points
+
+```
+Frontend      ████████░░  80%
+Backend       ██████░░░░  60%
+DSA           █████░░░░░  50%
+Database      ███████░░░  70%
+Debugging     █████████░  90%
+Coffee-fueled ██████████ 100%
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🗡️ Inventory (Skills Unlocked)
 
 <div align="center">
 
@@ -52,47 +56,65 @@ $ status --current
 
 <br>
 
-## `> system_stats --live`
+## 📜 Quest Log
+
+| Status | Quest |
+|:---:|---|
+| ✅ | Complete B.Tech-level programming foundations |
+| ✅ | Build first full-stack project with PHP + MySQL |
+| 🔄 | Master Data Structures & Algorithms |
+| 🔄 | Explore MongoDB deeper for flexible schemas |
+| ⏳ | Contribute to an open-source repo |
+| ⏳ | Land first internship / freelance gig |
+
+<br>
+
+## 🏆 Achievements Unlocked
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=gr8deadpool&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
-
-<img src="https://streak-stats.demolab.com?user=gr8deadpool&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=gr8deadpool&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff"/>
+<img src="https://img.shields.io/badge/🎓_MCA_Student-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_Fresher_Dev-C56CF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌙_Night_Coder-4834D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤝_Open_to_Work-00B894?style=for-the-badge"/>
 
 </div>
 
 <br>
 
-## `> roadmap.md`
-
-- [x] Learn Core Programming Fundamentals (C, C++, Java)
-- [x] Build Frontend Projects with HTML/CSS/Bootstrap
-- [x] Explore Backend with PHP + MySQL/MongoDB
-- [ ] Master Data Structures & Algorithms
-- [ ] Contribute to Open Source Projects
-- [ ] Land First Internship 🎯
-
-<br>
-
-## `> connect.sh`
-
-```bash
-$ ./reach_out --to shubham
-> Email     : Shubhamkrishna27@gmail.com
-> GitHub    : github.com/gr8deadpool
-> Instagram : @shubham_krishna__
-> Status    : Awaiting your message... █
-```
+## 📊 Player Stats (Live)
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=gr8deadpool&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&theme=radical&hide_border=true&layout=compact"/>
+
+<img src="https://streak-stats.demolab.com?user=gr8deadpool&theme=radical&hide_border=true"/>
+
+</div>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer"/>
+## 💬 NPC Dialogue Options
 
-<sub>// compiled with passion & late-night coding sessions</sub>
+<div align="center">
+
+<a href="mailto:Shubhamkrishna27@gmail.com"><img src="https://img.shields.io/badge/📧_Send_a_Scroll-FF6B6B?style=for-the-badge"/></a>
+<a href="https://instagram.com/shubham_krishna__"><img src="https://img.shields.io/badge/📸_Follow_the_Journey-C56CF0?style=for-the-badge"/></a>
+<a href="https://github.com/gr8deadpool"><img src="https://img.shields.io/badge/⭐_View_My_Repos-4834D4?style=for-the-badge"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=gr8deadpool&style=for-the-badge&color=C56CF0&label=ADVENTURERS+MET"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Every great developer was once a beginner who refused to give up."* — probably me, at 2 AM
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:4834D4,50:C56CF0,100:FF6B6B&height=130&section=footer"/>
 
 </div>
