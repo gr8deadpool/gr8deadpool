@@ -85,7 +85,27 @@ Open To: Internships, Collaboration & New Opportunities 🤝
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/gr8deadpool/gr8deadpool/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%">
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gr8deadpool&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%">
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
