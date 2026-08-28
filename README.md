@@ -59,28 +59,28 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gr8deadpool&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr8deadpool&theme=tokyonight&hide_border=true&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gr8deadpool&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr8deadpool&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" />
 
 <img src="https://streak-stats.demolab.com?user=gr8deadpool&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gr8deadpool&theme=tokyo-night&hide_border=true" width="95%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gr8deadpool&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,10,14&height=3&width=1000" width="100%">
 
-## 🐍 Contribution Snake
+## 🎯 What I'm Up To
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="600"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gr8deadpool/gr8deadpool/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gr8deadpool/gr8deadpool/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gr8deadpool/gr8deadpool/output/github-contribution-grid-snake.svg" width="95%"/>
-</picture>
+![](https://forthebadge.com/images/badges/built-with-love.svg)
+![](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 </div>
 
