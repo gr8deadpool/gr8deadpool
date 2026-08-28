@@ -1,112 +1,98 @@
 <div align="center">
 
-<br>
-
-<h1>SHUBHAM KUMAR</h1>
-
-<p><i>Full-Stack Developer &nbsp;·&nbsp; MCA Candidate &nbsp;·&nbsp; Building for the Web</i></p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:0f0f0f&height=2&width=800" width="60%">
-
-<br><br>
-
-<a href="mailto:Shubhamkrishna27@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logoColor=white"/></a>
-<a href="https://github.com/gr8deadpool"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logoColor=white"/></a>
-<a href="https://instagram.com/shubham_krishna__"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=shubham@dev:~$&fontSize=42&fontColor=00FF9C&fontAlignY=45&desc=Full-Stack%20Developer%20//%20MCA%20Student&descAlignY=65&descSize=16&descColor=ffffff&animation=fadeIn"/>
 
 </div>
 
-<br><br>
+```bash
+$ whoami
+> Shubham Kumar — Full-Stack Developer & Fresher
 
-## Profile
+$ cat about.txt
+> Pursuing MCA at Veer Kunwar Singh University (VKSU)
+> Passionate about building scalable, user-friendly web apps
+> Currently sharpening DSA + Backend fundamentals
 
-Full-Stack Developer currently pursuing an **MCA at Veer Kunwar Singh University (VKSU)**. Focused on building clean, scalable web applications and strengthening core computer science fundamentals through consistent practice in data structures, algorithms, and backend systems. Actively seeking internship and collaboration opportunities.
-
-<br>
-
-## Core Competencies
-
-<table width="100%">
-<tr>
-<th align="left" width="25%">Category</th>
-<th align="left">Stack</th>
-</tr>
-<tr>
-<td>Languages</td>
-<td>C&nbsp;&nbsp;·&nbsp;&nbsp;C++&nbsp;&nbsp;·&nbsp;&nbsp;Java&nbsp;&nbsp;·&nbsp;&nbsp;Python&nbsp;&nbsp;·&nbsp;&nbsp;JavaScript</td>
-</tr>
-<tr>
-<td>Frontend</td>
-<td>HTML5&nbsp;&nbsp;·&nbsp;&nbsp;CSS3&nbsp;&nbsp;·&nbsp;&nbsp;Bootstrap</td>
-</tr>
-<tr>
-<td>Backend</td>
-<td>PHP&nbsp;&nbsp;·&nbsp;&nbsp;Server-side Scripting</td>
-</tr>
-<tr>
-<td>Database</td>
-<td>MySQL&nbsp;&nbsp;·&nbsp;&nbsp;MongoDB</td>
-</tr>
-<tr>
-<td>Tools</td>
-<td>Git&nbsp;&nbsp;·&nbsp;&nbsp;GitHub&nbsp;&nbsp;·&nbsp;&nbsp;VS Code</td>
-</tr>
-<tr>
-<td>Currently Learning</td>
-<td>Data Structures & Algorithms&nbsp;&nbsp;·&nbsp;&nbsp;Advanced Full-Stack Development</td>
-</tr>
-</table>
+$ status --current
+> [✓] Open to Internships
+> [✓] Open to Collaboration
+> [✓] Learning Advanced Full-Stack Dev
+```
 
 <br>
-
-## Focus Areas
-
-| | |
-|---|---|
-| **Building** | Scalable, user-friendly web applications from front to back |
-| **Sharpening** | Problem-solving ability through consistent DSA practice |
-| **Seeking** | Internship roles and meaningful open-source collaboration |
-| **Available for** | Freelance work &nbsp;·&nbsp; Full-stack projects &nbsp;·&nbsp; Junior developer roles |
-
-<br>
-
-## GitHub Overview
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=gr8deadpool&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff"/>
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&theme=default&hide_border=true&layout=compact&title_color=000000&text_color=333333&bg_color=ffffff"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=gr8deadpool&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000"/>
+[![Instagram](https://img.shields.io/badge/-shubham__krishna__-00FF9C?style=flat-square&logo=instagram&logoColor=black)](https://instagram.com/shubham_krishna__)
+[![Gmail](https://img.shields.io/badge/-Shubhamkrishna27@gmail.com-00FF9C?style=flat-square&logo=gmail&logoColor=black)](mailto:Shubhamkrishna27@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=gr8deadpool&style=flat-square&color=00FF9C&label=VISITORS)](https://github.com/gr8deadpool)
 
 </div>
 
 <br>
 
-## Contact
+## `> tech_stack.json`
+
+```json
+{
+  "languages":  ["C", "C++", "Java", "Python", "JavaScript"],
+  "frontend":   ["HTML5", "CSS3", "Bootstrap"],
+  "backend":    ["PHP"],
+  "database":   ["MySQL", "MongoDB"],
+  "tools":      ["Git", "GitHub", "VS Code"],
+  "learning":   ["Data Structures & Algorithms", "Advanced Full-Stack"]
+}
+```
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="200"><b>Email</b><br><a href="mailto:Shubhamkrishna27@gmail.com">Shubhamkrishna27@gmail.com</a></td>
-<td align="center" width="200"><b>GitHub</b><br><a href="https://github.com/gr8deadpool">gr8deadpool</a></td>
-<td align="center" width="200"><b>Instagram</b><br><a href="https://instagram.com/shubham_krishna__">@shubham_krishna__</a></td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=gr8deadpool&style=flat-square&color=000000&label=PROFILE+VIEWS"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,bootstrap,php,mysql,mongodb,git,github&theme=dark&perline=7"/>
 
 </div>
 
 <br>
 
+## `> system_stats --live`
+
 <div align="center">
-<sub>Open to internships, freelance work, and collaborative projects.</sub>
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=gr8deadpool&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9"/>
+
+<img src="https://streak-stats.demolab.com?user=gr8deadpool&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=gr8deadpool&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff"/>
+
+</div>
+
+<br>
+
+## `> roadmap.md`
+
+- [x] Learn Core Programming Fundamentals (C, C++, Java)
+- [x] Build Frontend Projects with HTML/CSS/Bootstrap
+- [x] Explore Backend with PHP + MySQL/MongoDB
+- [ ] Master Data Structures & Algorithms
+- [ ] Contribute to Open Source Projects
+- [ ] Land First Internship 🎯
+
+<br>
+
+## `> connect.sh`
+
+```bash
+$ ./reach_out --to shubham
+> Email     : Shubhamkrishna27@gmail.com
+> GitHub    : github.com/gr8deadpool
+> Instagram : @shubham_krishna__
+> Status    : Awaiting your message... █
+```
+
+<div align="center">
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer"/>
+
+<sub>// compiled with passion & late-night coding sessions</sub>
+
 </div>
