@@ -72,13 +72,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=4&width=1000" width="100%">
 
-## 🐍 Contribution Snake
+## 📅 Contribution Graph (Real Data)
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/6a11cb/gr8deadpool" alt="gr8deadpool's contribution graph" width="95%"/>
+</div>
+
+<p align="center"><i>👆 Ye actual daily contribution calendar hai — har box ek din hai, jitna darker green/purple utna zyada commits.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=2&width=1000" width="100%">
+
+## 🐍 Snake Animation (Just for Fun)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gr8deadpool/gr8deadpool/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> 💡 To activate this, add a GitHub Action (`platane/snk`) to your repo — it auto-generates an animated snake that "eats" your contribution graph.
+<p align="center"><i>👆 Ye sirf decorative animation hai (upar wale hi graph ko "khaata" hua dikhata hai) — exact numbers ke liye upar wala real graph dekho.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=4&width=1000" width="100%">
 
