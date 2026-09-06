@@ -82,13 +82,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=2&width=1000" width="100%">
 
-## 🐍 Snake Animation (Just for Fun)
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gr8deadpool/gr8deadpool/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<a href="https://github.com/gr8deadpool/REPO_NAME_1">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr8deadpool&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/gr8deadpool/REPO_NAME_2">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr8deadpool&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/gr8deadpool/REPO_NAME_3">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr8deadpool&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/gr8deadpool/REPO_NAME_4">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=gr8deadpool&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
-<p align="center"><i>👆 Ye sirf decorative animation hai (upar wale hi graph ko "khaata" hua dikhata hai) — exact numbers ke liye upar wala real graph dekho.</i></p>
+<p align="center"><i>👆 REPO_NAME_1, REPO_NAME_2, waghera ko apne actual repository names se replace karo.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=4&width=1000" width="100%">
 
