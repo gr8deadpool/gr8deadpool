@@ -1,121 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shubham%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=40&fontFamily=Poppins&desc=Full-Stack%20Developer%20%C2%B7%20MCA%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=280&section=header&text=Shubham%20Kumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&fontFamily=Orbitron&desc=Full-Stack%20Developer%20%7C%20MCA%20Student&descAlignY=52&descSize=20" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Fresher+%7C+Fast+%26+Passionate+Learner;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://instagram.com/shubham_krishna__">
+  <img src="https://img.shields.io/badge/Instagram-6A11CB?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="mailto:Shubhamkrishna27@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=gr8deadpool&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS" />
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20work-24243e?style=flat-square&labelColor=0f0c29" />
-  <img src="https://img.shields.io/badge/based%20in-India-24243e?style=flat-square&labelColor=0f0c29" />
-  <img src="https://komarev.com/ghpvc/?username=gr8deadpool&style=flat-square&color=24243e&label=profile+views" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="mailto:Shubhamkrishna27@gmail.com"><img src="https://img.shields.io/badge/Email-24243e?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/shubham_krishna__"><img src="https://img.shields.io/badge/Instagram-24243e?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6a11cb&height=3&width=1000" width="100%">
 
-&nbsp;
+## 🧑‍💻 About Me
 
-## Profile
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-45d5-a19e-71ec32b0fb0f.gif" width="300"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🎓 **Education** — Pursuing **MCA** at Veer Kunwar Singh University (VKSU)
+- 💻 **Role** — Fresher & Full-Stack Developer, passionate about building web apps
+- 🌱 **Currently Learning** — Advanced Full-Stack Dev, DSA, Backend Development
+- 🎯 **Goal** — Become a skilled Full-Stack Developer building scalable, user-friendly apps
+- 🤝 **Open To** — Internships, collaboration & new opportunities
 
-**Education**
-MCA — Veer Kunwar Singh University (VKSU)
+<br clear="right"/>
 
-**Currently building skills in**
-Advanced full-stack development, DSA, backend systems
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2575fc&height=3&width=1000" width="100%">
 
-**Looking for**
-Internships, freelance work, and teams building something real
-
-</td>
-<td width="50%" valign="top">
-
-**Approach**
-I ship small, working things fast, then improve them — rather than over-planning before writing code.
-
-**Right now**
-Sharpening backend fundamentals so my full-stack apps hold up under real usage, not just demos.
-
-</td>
-</tr>
-</table>
-
-&nbsp;
-
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-C++ · C · Java · Python · JavaScript
-
-</td>
-<td valign="top" width="33%">
-
-**Web**
-HTML · CSS · Bootstrap · PHP
-
-</td>
-<td valign="top" width="33%">
-
-**Data & Tools**
-MySQL · MongoDB · Git · GitHub
-
-</td>
-</tr>
-</table>
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,html,css,bootstrap,php,mysql,mongodb,git,github&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,html,css,bootstrap,php,mysql,mongodb,git,github&theme=dark&perline=7" />
 </div>
 
-&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6a11cb&height=3&width=1000" width="100%">
 
-## Work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[Project One](https://github.com/gr8deadpool)**
-One line on what it does and why it's worth a look.
-`Stack: e.g. React · Node · MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-**[Project Two](https://github.com/gr8deadpool)**
-One line on what it does and why it's worth a look.
-`Stack: e.g. PHP · MySQL`
-
-</td>
-</tr>
-</table>
-
-<p align="center"><sub>Send me your 2–4 actual repo names + one line each, and I'll drop them in here with real links.</sub></p>
-
-&nbsp;
-
-## Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=gr8deadpool&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=ffffff&icon_color=8f87f1&text_color=c9c9d9&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&layout=compact&hide_border=true&bg_color=0f0c29&title_color=ffffff&text_color=c9c9d9" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=gr8deadpool&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gr8deadpool&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/8f87f1/gr8deadpool" alt="contribution graph" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=gr8deadpool&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-&nbsp;
 
 <div align="center">
-  <sub>Open to internships, freelance work, and collaborative projects.</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gr8deadpool&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2575fc&height=3&width=1000" width="100%">
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="120"/>
+
+💡 Open to internships, freelance work & collaborative projects — let's build something great!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+
+</div>
+
+<!-- Proudly redesigned ✨ -->
