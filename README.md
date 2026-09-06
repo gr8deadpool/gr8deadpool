@@ -6,6 +6,10 @@
 
 <br/>
 
+<img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Anime GIF"/>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;Fresher+%7C+Fast+%26+Passionate+Learner;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/><br/>
@@ -17,6 +21,11 @@
   <img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=gr8deadpool&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Believe%20It!-Never%20Give%20Up%20On%20Code-orange?style=for-the-badge&logo=fireship&logoColor=white" />
+<img src="https://img.shields.io/badge/Domain%20Expansion-Infinite%20Debugging-blueviolet?style=for-the-badge&logo=protondb&logoColor=white" />
 
 </div>
 
