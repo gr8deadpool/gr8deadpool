@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center"> 
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=280&section=header&text=Shubham%20Kumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&fontFamily=Orbitron&desc=Full-Stack%20Developer%20%7C%20MCA%20Student&descAlignY=52&descSize=20" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180"/>
